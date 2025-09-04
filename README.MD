@@ -13,8 +13,8 @@
 # 📚 Cursos Complementares
 * Ética na Inteligência Artificia
 * Competência Transversal - Segurança no Trabalho
-* Desvendando a Descarbonizaçã
-* Excel Básic
+* Desvendando a Descarbonização
+* Excel Básico
 * FLUÊNCIA - FUNDAMENTOS DA INTELIGÊNCIA ARTIFICIA
 * Fundamentos do Python 1
 
