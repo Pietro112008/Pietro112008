@@ -28,7 +28,7 @@
 # ⚠️ Pontos a Melhorar
 * Organização
 * Adaptabilidade 
-* Falar em publico
+
 
 # 🎯Metas de Curto Prazo
 * Começar uma faculdade
