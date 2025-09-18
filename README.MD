@@ -47,6 +47,11 @@
 
 
 # projetos
+###Health-IA
 Health-IA é uma marca que combina tecnologia de ponta com cuidado humano, aplicando inteligência artificial para tornar diagnósticos mais precisos e tratamentos personalizados. Nos wireframes, é importante destacar interfaces limpas e intuitivas, que comuniquem tanto a eficiência tecnológica quanto a atenção ao paciente, reforçando a ideia de saúde humanizada apoiada pela IA.
 
-PDF: [PetConecta](ptconecta.pdf)
+###PetConecta
+PetConecta é uma plataforma que aproxima donos de animais de estimação de produtos e serviços de alta qualidade. Do cuidado diário com rações e brinquedos até serviços especializados como veterinários e adestradores, a marca oferece soluções confiáveis para o bem-estar dos pets. Com uma identidade visual que transmite carinho, cuidado e confiança, a PetConecta valoriza a conexão entre humanos e animais, tornando cada experiência prática, segura e afetuosa.
+
+
+PDF: [Sites](Sites.pdf)
