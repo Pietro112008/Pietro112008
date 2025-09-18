@@ -44,3 +44,9 @@
 #  📖Hobbies
 * Ler livro
 * Assistir filmes
+
+
+# projetos
+Health-IA é uma marca que combina tecnologia de ponta com cuidado humano, aplicando inteligência artificial para tornar diagnósticos mais precisos e tratamentos personalizados. Nos wireframes, é importante destacar interfaces limpas e intuitivas, que comuniquem tanto a eficiência tecnológica quanto a atenção ao paciente, reforçando a ideia de saúde humanizada apoiada pela IA.
+
+PDF: [PetConecta](ptconecta.pdf)
