@@ -4,7 +4,7 @@
 
 # 🪪dados pessoais
 * Nome: Pietro Vicente Donzelli de Assis
-* Idade: 17 
+* Idade: 16
 * Cidade: Presidente Prudente,SP
 * Email: pietrovicente@gmail.com
 * github: https://github.com/Pietro112008/Pietro112008.git
